@@ -1,2 +1,2 @@
-# TabuadaPHP
+# Tabuada-PHP
  InstrucaoFor
